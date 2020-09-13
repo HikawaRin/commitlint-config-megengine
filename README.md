@@ -1,5 +1,7 @@
 # commitlint-config-MegEngine  
 
+English | [中文版](https://github.com/HikawaRin/commitlint-config-megengine/blob/master/README_CN.md)  
+
 A shareable [conventional-changelog-lint](https://github.com/conventional-changelog/commitlint) configuration for [MegEngine](https://github.com/MegEngine/MegEngine) commit convention.  
 
 ## Getting started
