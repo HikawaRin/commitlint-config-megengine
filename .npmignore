@@ -1,0 +1,6 @@
+.gitignore
+.vscode
+
+commit.md
+lint.sh
+debug.log
